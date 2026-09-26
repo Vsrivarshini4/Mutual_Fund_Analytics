@@ -19,15 +19,17 @@ risk levels, expense ratios, minimum investment requirements, and NAV data.
 - Python
 - Pandas
 - NumPy
+- Matplotlib
 - SQL
+- SQLite
+- Google Colab
 - Jupyter Notebook
 - GitHub
-- Power BI
 
 ## Project Workflow
 
-Data Collection → Data Cleaning → Data Validation → Data Analysis → SQL Analysis → Dashboard → Insights
+Data Collection → Data Cleaning → Data Validation → Data Analysis → SQL Analysis → Insights
 
 ## Project Status
 
-Mutual Fund Analytics project completed as a data analytics project.
+Python analysis, NAV analysis, data validation, visualization, and SQL analysis completed.
